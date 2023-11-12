@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: tetris
-        image: ansobimat/ansobimat:latest
+        image: ansobimat/tetrisv2:latest
         ports:
         - containerPort: 3000   # Use port 3000
 
